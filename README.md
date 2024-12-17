@@ -101,9 +101,17 @@ Each navigation option provides specialized functionality and seamless integrati
 ---
 
 ### **Future Improvements**  
-- Implement push notifications for event reminders.  
-- Add user profiles for saving preferences and travel history.  
-- Enhance map interactivity for dynamic location searches.  
+In future updates regarding this application, the first planned set of updates will include features that weren’t fully implemented before launch. This mainly refers to functionalities that weren’t high-priority requirements during development and were pushed beyond the expected release date.
+
+Currently, this includes:
+
+Polishing the main user interface for a more refined user experience.
+Adding functionality to view other users’ created schedules, enabling better collaboration and sharing capabilities.
+Additionally, future updates will focus on app maintenance to ensure it continues functioning properly well after the launch.
+
+Some additional features being considered include:
+
+The ability to add events directly from the flight, hotel, and restaurant pages to streamline event creation, allowing users to avoid going back and forth between pages and the schedule creation view.
 
 ---
 
