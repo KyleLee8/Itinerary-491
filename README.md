@@ -5,7 +5,7 @@
 # **Itinerary**  
 
 ### **Overview**  
-The **Travel Companion App** is a Swift-based iOS application designed to help users conveniently explore and plan their travels. From searching for flights, hotels, and restaurants to managing their itineraries and schedules, this app provides an all-in-one solution with an intuitive and user-friendly interface.
+The **Itinerary** is a Swift-based iOS application designed to help users conveniently explore and plan their travels. From searching for flights, hotels, and restaurants to managing their itineraries and schedules, this app provides an all-in-one solution with an intuitive and user-friendly interface.
 
 ---
 
